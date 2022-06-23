@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=1sboJnrMk1Y&t=28s
 
 
 
-### <*Profile*>
+### <*팀원*>
 
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/102858692/161480452-fc8d952a-b964-4b44-8a9b-b5eab3652f89.png"/>
 
